@@ -8,6 +8,10 @@
 
 - 💬 Ask me about **Kubernetes, Terraform, Linux, Go and more**
 
+- 🌇 Living in São Paulo, Brazil
+
+- 😆 Last but not least, btw I use Arch
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jhonnwillker" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="jhonnwillker" height="30" width="40" /></a>
