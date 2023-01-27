@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [iFood](https://www.ifood.com.br/)
 
-- 💬 Ask me about **Kubernetes, Terraform, Linux, Go and more**
+- 💬 Ask me about **Kubernetes, Terraform, Linux, Cloud, Go and more**
 
 - 🌇 Living in São Paulo, Brazil
 
